@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 72484814c4d3bb241bcd2e8c3927403d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _explodeEffect: {fileID: 1975141522878942813, guid: 1b9f4316433b24e92be0a740990a1e4d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
